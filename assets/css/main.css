@@ -791,7 +791,6 @@ section,
   cursor: pointer;
   display: inline-block;
   padding: 0;
-  color:black;
   font-size: 14px;
   font-weight: 400;
   margin: 0 10px;
@@ -803,7 +802,7 @@ section,
 
 .portfolio .portfolio-filters li:hover,
 .portfolio .portfolio-filters li.filter-active {
-  color: var(--accent-color);
+  color:black;
 }
 
 .portfolio .portfolio-filters li:first-child {
