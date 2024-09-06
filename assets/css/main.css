@@ -791,6 +791,7 @@ section,
   cursor: pointer;
   display: inline-block;
   padding: 0;
+  color:black;
   font-size: 14px;
   font-weight: 400;
   margin: 0 10px;
